@@ -4,3 +4,4 @@
 
 /.vs/VSIXReadOnlyCleaner/v15/Server/sqlite3
 /src/VSIXReadOnlyCleaner/obj/Release
+/src/VSIXReadOnlyCleaner/bin
