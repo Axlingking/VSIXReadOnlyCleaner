@@ -1,4 +1,4 @@
 # VSIXReadOnlyCleaner
 Vistual Studio 2017 扩展工具。在解决方案资源管理器中右键菜单中添加按钮，点击后移除解决方案下所有文件的只读属。
 
-images/example_01.jpg
+https://github.com/Axlingking/VSIXReadOnlyCleaner/images/example_01.jpg
